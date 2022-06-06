@@ -21,7 +21,7 @@
 
 
 
-<img aligh="right" alt="DevRezaur's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TaneemKazi&show_icons=true&theme=tokyonight" />
+<img aligh="right" alt="TaneemKazi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TaneemKazi&show_icons=true&theme=tokyonight" />
 <br />
 
 ---
