@@ -9,7 +9,7 @@
 
 - 🧩  Working on Mobile Application development.
 - 💡  Currently learning Flutter and Dart.
-- 🔍looking to collaborate on Spring Boot projects
+- 🔍  looking to collaborate on Android projects
 - 💬  Ask me about App Development
 - 📮  Reach me via [Linkedin](http://www.linkedin.com/in/kazitaneem), [Twitter](https://twitter.com/TaneemUl)
 
