@@ -9,8 +9,8 @@
 
 - 🧩  Working on Mobile Application development.
 - 💡  Currently learning Flutter and Dart.
-- 🔍  looking to collaborate on Android projects
-- 💬  Ask me about App Development
+- 🔍  Looking to collaborate on Android projects.
+- 💬  Ask me about Mobile Application Development..
 - 📮  Reach me via [Linkedin](http://www.linkedin.com/in/kazitaneem), [Twitter](https://twitter.com/TaneemUl)
 
 <br />
