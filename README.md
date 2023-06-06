@@ -17,11 +17,10 @@
 
 ---
 
-<img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaneemKazi&theme=tokyonight" />
+<img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaneemKazi&theme=radical" />
 
 
-
-<img aligh="right" alt="TaneemKazi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TaneemKazi&show_icons=true&theme=tokyonight" />
+<img aligh="right" alt="TaneemKazi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TaneemKazi&show_icons=true&theme=radical" />
 <br />
 
 ---
